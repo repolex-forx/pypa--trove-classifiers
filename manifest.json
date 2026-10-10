@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "trove-classifiers",
+  "versions": [
+    {
+      "commit": "bc832553ebe6114e7682f09bc59bda6552da37cd",
+      "parsed_at": "2026-10-10T23:12:03.978211+00:00",
+      "tag": "2026.9.21.13",
+      "filetree": "filetree/bc832553ebe6114e7682f09bc59bda6552da37cd.nq.gz",
+      "blobs": [
+        "blob/fe11925eca7c5c2110d485994ec1c4dfae7db73c.nq.gz",
+        "blob/2cbf721e794ddef643acc27fdeaa8ec32ad8ead3.nq.gz",
+        "blob/533f3b6320d946d4ac0a92abd458fd7ba176e78b.nq.gz",
+        "blob/05374a24cd41b3e32dd6a7da3b393ff6abb74ccc.nq.gz",
+        "blob/d8d85e466c9b4679007370c8d99e2c0fb3c08be3.nq.gz",
+        "blob/d71e6f2c06c9865195ad89ceab41b623c69ffa0f.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/2653780a62f737b216acc8683fcb79bac7a47fef.nq.gz",
+        "blob/60f6d06e7feea006fcb63ed9c3c312f0d869d698.nq.gz",
+        "blob/080a874995cb55b5ed1d1acc9cc0bf17a0a3ba9f.nq.gz",
+        "blob/45a0ff598ea798d7f1ae01c6b183e7c46e8d7140.nq.gz",
+        "blob/67f6c49b9bd4132f85773a38f9527f6fa075516a.nq.gz",
+        "blob/b662743b00656c45b7e67fb696ef7652d081a5f5.nq.gz",
+        "blob/891c60a0219dfa2016e658309827a31e37544e29.nq.gz",
+        "blob/eb28aa6e34d470da305f2bc1dd66e4f3a99b2a76.nq.gz",
+        "blob/83b8b45bdb944132804183ddfe4b8891e623e9ec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/f39de9221ae6e38a04780f313f988e60293edd48.nq.gz",
+        "blob/250277a27112372df28caba47c0b90552c8036e1.nq.gz",
+        "blob/3b644e16a75859e7c12ffa5ddd8b2d8661988c4b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
