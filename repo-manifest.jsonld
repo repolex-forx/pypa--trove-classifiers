@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/trove-classifiers/commit/bc832553ebe6114e7682f09bc59bda6552da37cd",
       "git:hexsha": "bc832553ebe6114e7682f09bc59bda6552da37cd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2026.9.21.13"
     },
     {
