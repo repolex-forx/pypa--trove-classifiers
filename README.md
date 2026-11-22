@@ -36,9 +36,15 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 05cc151733645d6fe075147ae47cf5cc11aaa84e
+│   │   │   └── chunk-001.nq.gz
 │   │   └── bc832553ebe6114e7682f09bc59bda6552da37cd
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 05cc151733645d6fe075147ae47cf5cc11aaa84e.nq.gz
 │   └── repolex
+│       ├── 05cc151733645d6fe075147ae47cf5cc11aaa84e
+│       │   └── chunk-001.nq.gz
 │       └── bc832553ebe6114e7682f09bc59bda6552da37cd
 │           └── chunk-001.nq.gz
 ├── blob
@@ -56,8 +62,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── 83b8b45bdb944132804183ddfe4b8891e623e9ec.nq.gz
 │   ├── 891c60a0219dfa2016e658309827a31e37544e29.nq.gz
 │   ├── b662743b00656c45b7e67fb696ef7652d081a5f5.nq.gz
+│   ├── c81fe8cb7b01abe287b0a3deb4f50d6d9ee39ee3.nq.gz
 │   ├── d71e6f2c06c9865195ad89ceab41b623c69ffa0f.nq.gz
 │   ├── d8d85e466c9b4679007370c8d99e2c0fb3c08be3.nq.gz
+│   ├── e184cb0f63d4e804e8e027745e3201152e0c4f5d.nq.gz
 │   ├── e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz
 │   ├── eb28aa6e34d470da305f2bc1dd66e4f3a99b2a76.nq.gz
 │   ├── f39de9221ae6e38a04780f313f988e60293edd48.nq.gz
@@ -66,7 +74,10 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 05cc151733645d6fe075147ae47cf5cc11aaa84e.nq.gz
 ├── filetree
+│   ├── 05cc151733645d6fe075147ae47cf5cc11aaa84e.nq.gz
 │   └── bc832553ebe6114e7682f09bc59bda6552da37cd.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -75,7 +86,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 28 files
+17 directories, 35 files
 ```
 
 | Directory | What it contains |
@@ -96,4 +107,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
 
 ---
-*Parsed on 2026-10-10 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-22 by [repolex](https://repolex.ai)*

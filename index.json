@@ -3,6 +3,11 @@
   "repo": "trove-classifiers",
   "versions": [
     {
+      "commit": "05cc151733645d6fe075147ae47cf5cc11aaa84e",
+      "tag": "2026.1.14.14",
+      "parsed_at": "2026-11-22T06:11:25.963669+00:00"
+    },
+    {
       "commit": "bc832553ebe6114e7682f09bc59bda6552da37cd",
       "tag": "2026.9.21.13",
       "parsed_at": "2026-10-10T23:14:20.935459+00:00"
